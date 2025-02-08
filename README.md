@@ -1,4 +1,4 @@
-# Semiparametric Approaches for Inferring Topological Properties in Complex Price Networks
+# Semiparametric approaches to infer topological properties in complex price networks.
 
 ## Research summary
  
