@@ -6,7 +6,7 @@ The problem of estimating the structure of the price system in an economy using 
 
 ## Keywords:
 
-Complex networks, Price system, Gaussian Graphical Models (GGMs), Nonparanormal SKEPTIC, Graphical Lasso (GLasso), Consumer Price Index (CPI)
+Complex networks, Price system, Gaussian Graphical Models (GGMs), Nonparanormal SKEPTIC, Graphical Lasso (GLasso), Consumer Price Index (CPI).
 
 --- 
 
@@ -20,4 +20,7 @@ Redes complejas, Sistema de precios, Modelos Gráficos Gaussianos (GGMs), Nonpar
 
 --- 
 
-* Research presentation at the [**Latin American Conference on the Use of R in Research + Development [esp.]**](https://www.youtube.com/watch?v=AszdiR5j0jI&list=PL9-E3cL2KgKlW9D-7mOGoVZ0W7Kv6CeLC&index=3&ab_channel=LatinR)
+
+
+
+* Research presentation at the **Latin American Conference on the Use of R in Research + Development [esp.]:**  [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=AszdiR5j0jI&list=PL9-E3cL2KgKlW9D-7mOGoVZ0W7Kv6CeLC&index=3&ab_channel=LatinR) 
