@@ -17,3 +17,7 @@ Se considera el problema de estimación de la estructura del sistema de precios 
 ## Palabras claves: 
 
 Redes complejas, Sistema de precios, Modelos Gráficos Gaussianos (GGMs), Nonparanormal SKEPTIC, Graphical Lasso (GLasso), Índice de Precios al Consumo (IPC).
+
+--- 
+
+* Presentación de la investigación en la !(https://www.youtube.com/watch?v=AszdiR5j0jI&list=PL9-E3cL2KgKlW9D-7mOGoVZ0W7Kv6CeLC&index=3&ab_channel=LatinR)[**Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo [esp.]**]
